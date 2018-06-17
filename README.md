@@ -23,16 +23,7 @@
 > [关于this]()   
 > [深拷贝]()   
 > [浅拷贝]()   
-> [Array]()   
-1. 判断是否数组类型
-2. findIndex
-3. find
-4. forEach
-5. map
-6. filter
-7. unshift
-8. pop
-9. push
+> [Array](https://github.com/xshaobaozi/bao.github.io/src/pages/javascript/array)   
 > [Promise]()   
 > [RexExp]()   
 > [Canvas]()   
