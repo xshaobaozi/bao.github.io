@@ -23,7 +23,7 @@
 > [关于this]()   
 > [深拷贝]()   
 > [浅拷贝]()   
-> [Array](https://github.com/xshaobaozi/bao.github.io/src/pages/javascript/array)   
+> [Array](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/array/README.md)   
 > [Promise]()   
 > [RexExp]()   
 > [Canvas]()   
