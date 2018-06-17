@@ -24,7 +24,7 @@
 > [深拷贝]()   
 > [浅拷贝]()   
 > [Array](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/array/README.md)   
-> [Promise]()   
+> [Promise](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/promise/README.md)   
 > [RexExp]()   
 > [Canvas]()   
 > [关于 === 和 ==]()   
