@@ -45,3 +45,9 @@ findIndex 找到第一个匹配的元素的索引
    let a = [1, 2, 3, 4].find(item => item === 2)
    //a = 1
 ```
+
+### Array.forEach
+forEach用于遍历数组，没有返回值
+
+### Array.map
+map用于遍历数组 返回本身
