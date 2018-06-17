@@ -1,4 +1,5 @@
 # 前端知识点总结
+---
 
 ## 浏览器
 > [页面加载]()   
@@ -17,7 +18,7 @@
 > [img]()   
 > [video]()   
 > [audio]()   
-- - - - -
+
 ## Javascript
 > [关于this]()   
 > [深拷贝]()   
@@ -40,7 +41,7 @@
 > [事件委托]()   
 > [闭包]()   
 > [事件捕获 和 事件冒泡]()   
-- - - - -
+
 ## HTTP
 > [Cookie]()   
 > [Session]()   
@@ -48,25 +49,25 @@
 >请[求方法]()   
 > [response]()   
 > [request]()   
-- - - - -
+
 ## SSL
-- - - - -
+
 ## HTTPS
-- - - - -
+
 ## HTTP 2.0
-- - - - -
+
 ## TCP
-- - - - -
+
 ## UDP
-- - - - -
+
 ## Socket
-- - - - -
+
 ## WebSocket
-- - - - -
+
 ## EventLoop
 > [setTimeout]()   
 > [process.nextTick]()   
-- - - - -
+
 ## CSS
 > [选择器]()   
 > [Flex]()   
@@ -83,11 +84,11 @@
         content包括border 、 padding、padding、height
 2. W3C模型
         content 只有width，height
-- - - - -
+
 ## Node
-- - - - -
+
 ## Webpack
-- - - - -
+
 ## Vue
 > [组件]()   
 > [样式]()   
@@ -99,10 +100,10 @@
 > [v-if]()   
 > [v-show]()   
 > [v-bind]()   
-- - - - -
+
 
 ## Vuex
-- - - - -
+
 ## vue-router
-- - - - -
+
 ## Vue-SSR
