@@ -91,3 +91,4 @@ finally不接受任何参数
 ```
 
 ### Promise.race
+使用方法同上，只有有一个promise先执行 整体状态马上改变 then返回先执行的promise
