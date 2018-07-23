@@ -1,6 +1,7 @@
 # 前端知识点总结
 ---
 
+
 ## 浏览器
 > [页面加载]()   
 > [重绘]()   
@@ -13,6 +14,9 @@
 > [SessionStroage]()   
 > [IndexDB]()   
 > [postMessage]()   
+> [window 和 document]()   
+> [DOM操作]()   
+> [XMLHttpRequest]()   
 
 ## HTML
 > [img]()   
@@ -25,12 +29,13 @@
 > [Array](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/array/README.md)   
 > [Promise](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/promise/README.md)   
 > [RexExp]()   
-> [Canvas]()   
 > [关于 === 和 ==](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/javascript/equle/README.md)   
 > [typeof]()   
 > [事件委托]()   
 > [闭包]()   
 > [事件捕获 和 事件冒泡]()   
+
+## Canvas
 
 ## NET
 > [NET](https://github.com/xshaobaozi/bao.github.io/blob/master/src/pages/net/README.md)   
@@ -39,7 +44,7 @@
 > [Cookie]()   
 > [Session]()   
 > [Token]()   
->请[求方法]()   
+> [请求方法]()   
 > [response]()   
 > [request]()   
 
@@ -56,6 +61,14 @@
 ## Socket
 
 ## WebSocket
+
+## Webpack
+> [文件异步加载]()
+> [分割文件]()
+> [按需引用]()
+> [sass]()
+> [ES5->ES6]()
+> [压缩文件]()
 
 ## EventLoop
 > [setTimeout]()   
@@ -80,9 +93,8 @@
 
 ## Node
 
-## Webpack
-
 ## Vue
+> [实现原理]()   
 > [组件]()   
 > [样式]()   
 > [EventBus]()   
@@ -96,7 +108,9 @@
 
 
 ## Vuex
+> [mapMutation]()   
+> [mapAction]()   
 
 ## vue-router
-
+> [实现原理]()   
 ## Vue-SSR
